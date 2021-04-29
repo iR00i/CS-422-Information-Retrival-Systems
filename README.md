@@ -2,6 +2,7 @@
 This repo is for the Information retrieval Systems Course CS422 Second Semester of 2020/2021.
 
 Assignment #1 consisted of reading the "**Cranfield Docs**" and applying pre-processing on them. And then Construct an Inverted Index model of the terms in the Dataset.
+
 "**data.tsv**__" is the documents dataset with only the Text and the Title. it was created with pandas and saved as a tab separated file for efficiency and speed.
 "**Inverted_Index.json**__" is the postings-list of the terms in the dataset. it is a json file with **4334** terms. each term has the following format:
 ```json
