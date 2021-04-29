@@ -15,7 +15,7 @@ Assignment #1 consisted of reading the "**Cranfield Docs**" and applying pre-pro
     ]
   },
 ```
-"**_df_**" is the "_**document frequency**_" for the term. "**_docs_**" is a list of the documents that contain the term. "**_ID_**" is the id of the document. "**_TF_**" is the "**term frequency**__" of the term in the document. 
+"**_df_**" is the "_**document frequency**_" for the term. "**_docs_**" is a list of the documents that contain the term. "**_ID_**" is the id of the document. "**_TF_**" is the "**_term frequency_**" of the term in the document. 
 
 "**_Assignment1.py_**" is the code used to create "**data.tsv**__" and "**Inverted_Index.json**__"
 There is a [colab notebook](https://colab.research.google.com/drive/1LgDM_C5xpNiZHO-J9WIOpoD9l4kHWGrM?usp=sharing) associated with this repo for the first Assignment.
