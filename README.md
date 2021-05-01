@@ -1,4 +1,4 @@
-# CS-422-Informoation-Retrival-Systems
+# CS-422-Information-Retrival-Systems
 This repo is for the Information retrieval Systems Course CS422 Second Semester of 2020/2021.
 
 Assignment #1 consisted of reading the "**Cranfield Docs**" and applying pre-processing on them. And then Construct an Inverted Index model of the terms in the Dataset.
